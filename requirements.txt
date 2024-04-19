@@ -1,5 +1,4 @@
-streamlit
-Pillow
-numpy
-opencv-python
-pyqrcode
+streamlit==1.33.0
+pillow==10.3.0
+opencv-python==4.9.0.80
+PyQRCode==1.2.1
