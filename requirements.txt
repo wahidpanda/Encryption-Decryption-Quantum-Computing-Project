@@ -2,4 +2,5 @@ streamlit==1.33.0
 pillow==10.3.0
 opencv-python==4.9.0.80
 PyQRCode==1.2.1
+qrcode==7.4.2
 opencv-python-headless==4.9.0.80
